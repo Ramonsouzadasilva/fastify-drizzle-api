@@ -1,6 +1,6 @@
 # Clean Architecture API
 
-Complete RESTful API built with TypeScript, Express, Prisma, PostgreSQL, following Clean Architecture and SOLID principles.
+Complete RESTful API built with TypeScript, Fastify, Drizzle, PostgreSQL, following Clean Architecture and SOLID principles.
 
 ## 🚀 Features
 
@@ -47,8 +47,8 @@ src/
 ## 🛠️ Technologies
 
 - **TypeScript**: Type-safe development
-- **Express**: Web framework
-- **Prisma**: ORM for PostgreSQL
+- **Fastify**: Web framework
+- **Drizzle**: ORM for PostgreSQL
 - **PostgreSQL**: Database
 - **Zod**: Schema validation
 - **JWT**: Authentication
